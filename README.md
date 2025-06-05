@@ -140,7 +140,7 @@ const order = await client.createOrder({
 
 ## 📞 Contact & Support
 
-- Website: [0x Technologies](https://0xtech.guru)
+- Website: [0x Technologies](https://0xtech.org)
 - Twitter: [@0x Technologies](https://twitter.com/0xtech.guru)
 - Email: metadevxi@gmail.com
 
